@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "pyRevit_upload_test",
+    "description": "Extensions from RevitAPI + python",
+    "author": "Kinan Hatahet",
+    "author_profile": "https://github.com/Keen91",
+    "url": "https://github.com/Keen91/pyRevit_upload_test.git",
+    "website": "https://github.com/Keen91/pyrevitplus",
+    "image": "",
+    "dependencies": []
+}
